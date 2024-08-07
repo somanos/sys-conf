@@ -1,0 +1,4 @@
+cache_dir=/var/nginx/cache
+web_backend=127.0.0.1:4444
+server_dir=/srv/app
+web_domain=example.org

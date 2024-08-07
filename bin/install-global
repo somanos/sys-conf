@@ -1,0 +1,4 @@
+#!/bin/bash
+npm i -g @somanos/sys-conf
+loc=$(npm list -g @somanos/sys-conf | head -1)
+ln -s ${loc}/node_modules/@somanos/sys-conf/index.js /usr/local/bin/sys-conf

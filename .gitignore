@@ -1,0 +1,11 @@
+.DS_Store
+.Trash-*/
+node_modules
+*DEPRECATED*
+tmp/*
+# .vscode/
+.vscode/launch.json
+*_tmp*
+._*
+t
+package-lock.json
