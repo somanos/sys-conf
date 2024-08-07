@@ -1,6 +1,6 @@
 {
   "name": "@somanos/sys-conf",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Light weight Linux system configurator",
   "main": "index.js",
   "scripts": {
