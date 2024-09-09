@@ -2,7 +2,7 @@
 Light weight Linux system configurator.
 
 ## Why?
-There are plentyful varieties of system configurations files that need to customized. sed + awk may work with small and simple set of config files. Ansible may be a too heavy machine for a relatively modest deployment.
+There are plentyful varieties of system configurations files that need to be customized. Of course, sed + awk may do the job, at least with small and simple set of config files. Ansible may be a too heavy machine for a relatively modest deployment.
 
 ## Synopsys
 sys-conf shall take recursively:
